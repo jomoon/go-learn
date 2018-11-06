@@ -1,11 +1,11 @@
-package main
+package echo
 
 import (
 	"fmt"
 	"os"
 )
 
-func main() {
+func Echo1() {
 	// 声明了俩个string类型的变量s和sep，如果没有被初始化，他将隐式地初始化为这个类型的空值
 	var s, sep string
 	// 循环的索引变量i在for循环开始处声明 := 用于短变量声明，可声明一个或多个
