@@ -1,6 +1,6 @@
 package main
 
-import "awesomeProject/server"
+import "hjj.com/study/ch1/server"
 
 func main() {
 	server.Server2()

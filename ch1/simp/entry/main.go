@@ -1,7 +1,7 @@
 package main
 
 import (
-	"awesomeProject/simp"
+	"hjj.com/study/ch1/simp"
 	"fmt"
 )
 
